@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "target.string",
+      "type": "com.rongda.myboot.AutoConfigurationProperties",
+      "sourceType": "com.rongda.myboot.AutoConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "target.string.value",
+      "type": "java.lang.String",
+      "sourceType": "com.rongda.myboot.AutoConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
